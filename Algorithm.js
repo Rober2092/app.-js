@@ -5,4 +5,3 @@ const findIndex = (num) => {
       }
     }
   };
-  console
